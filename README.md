@@ -10,4 +10,4 @@ argue.exe net "user test Qwerty123456!@# /add"
 
 reference:https://blog.xpnsec.com/how-to-argue-like-cobalt-strike/
 
-[img](https://raw.githubusercontent.com/timwhitez/argument-spoofing/master/argue.gif)
+![img](https://raw.githubusercontent.com/timwhitez/argument-spoofing/master/argue.gif)
