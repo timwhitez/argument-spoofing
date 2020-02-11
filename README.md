@@ -9,3 +9,5 @@ argue.exe net "user test Qwerty123456!@# /add"
 暂时不开源
 
 reference:https://blog.xpnsec.com/how-to-argue-like-cobalt-strike/
+
+[img](https://raw.githubusercontent.com/timwhitez/argument-spoofing/master/argue.gif)
